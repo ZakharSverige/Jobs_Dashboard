@@ -2,50 +2,32 @@
 
 <a href="Screenshot 2025-12-11 235445.png" target="_blank"> <img src="Screenshot 2025-12-11 235445.png" alt="Общий вид Дашборда Вакансий в Сфере Данных"> </a>
 
-...
 > 📁 **Скачать файл дашборда Power BI Desktop (.pbix) можно здесь:** [`Data_Jobs_Dashboard.pbix`](Data_Jobs_Dashboard.pbix)
-...
 
+___
 
 ## Introduction
 
-This dashboard was created for **Job Seekers, Job Transitioners, and Job Swappers** to solve a common problem: information about the data job market is scattered and hard to grasp. Using a real-world dataset of 2024 data science job postings (including titles, salaries, and locations), this project provides a single, easy-to-use interface to explore market trends and compensation.
+Этот дашборд был создан для соискателейи специалистов, чтобы решить общую проблему: информация о рынке труда в сфере данных часто разрознена и сложна для понимания. Используя реальный набор данных о вакансиях 2024 года (включая должности, зарплаты и географию), этот проект предоставляет единый, простой в использовании интерфейс для изучения рыночных тенденций и компенсаций.
 
-### Dashboard File
-You can find the file for the dashboard here: [`Data_Jobs_Dashboard.pbix`](Data_Jobs_Dashboard.pbix).  
+## 📈 Ключевые Инсайты для Соискателей (Data-Driven Conclusions)
 
-## Skills Showcased
+Этот дашборд не просто показывает цифры; он дает уникальные инсайты, помогающие принимать карьерные решения. Вот несколько ключевых выводов, которые можно сделать на основе данных за 2024 год:
 
-This project was a journey through key Power BI features. Here's a look at what we mastered:
+### 1. Зарплатный Разрыв и Уровень Должности
 
--   **⚙️ Data Transformation (ETL) with Power Query:** Cleaned, shaped, and prepared the raw data for analysis by handling blanks, changing data types, and creating new columns.
--   **🧮 Implicit Measures:** Formulated measures to derive key insights and KPIs like `Median Yearly Salary` and `Job Count`.
--   **📊 Core Charts:** Utilized **Column, Bar, Line,** and **Area Charts** to compare job counts and track trends over time.
--   **🗺️ Geospatial Analysis:** Leveraged **Map Charts** to visualize the global distribution of jobs.
--   **🔢 KPI Indicators & Tables:** Used **Cards** to display key metrics and **Tables** to provide granular, sortable data.
--   **🎨 Dashboard Design:** Designed an intuitive and visually appealing layout, exploring both common and uncommon chart types to best tell the data story.
--   **🖱️ Interactive Reporting:**
-    -   **Slicers:** To dynamically filter the report by Job Title.
-    -   **Buttons & Bookmarks:** To create a seamless navigation experience.
-    -   **Drill-Through:** To navigate from a high-level summary to a contextual, detailed view.
----
+* **Наиболее высокооплачиваемые позиции:** Медианная годовая зарплата для **Senior Data Scientist** составляет $155 тыс., что значительно выше, чем у **Data Analyst** ($112 тыс.) и даже **Data Engineer** ($126 тыс.). Это указывает на явную ценность глубокой экспертизы в области машинного обучения и статистики.
+* **Сравнение Инженеров и Аналитиков:** **Data Engineer** имеет более высокую медианную зарплату ($126 тыс.) по сравнению с **Data Analyst** ($112 тыс.). Это подтверждает, что спрос на специалистов, владеющих навыками ETL и построением пайплайнов, оплачивается выше, чем чистый аналитический функционал.
 
-## Dashboard Overview
+### 2. Динамика Рынка (График "Jobs Over Time")
 
-*This report is split into two distinct pages to provide both a high-level summary and a detailed analysis.*
+* **Сезонность и Тенденции:** На графике видно, что количество вакансий достигло пика примерно в **апреле–мае 2024** года, а затем наблюдался спад в летние месяцы (июль–сентябрь), что соответствует общей сезонности найма.
+* **Восстановление Рынка:** С ноября 2024 года наблюдается **рост числа вакансий**, сигнализирующий о восстановлении рынка и активизации найма в конце года/начале следующего.
 
-### Page 1: High-Level Market View
+### 3. Насыщенность Рынка (График "Job Counts")
 
-![Data Jobs Dashboard Page 1](../Resources/images/Project1_Dashboard_Page1.gif)  
-
-This is your mission control for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
-
-### Page 2: Job Title Drill Through
-
-![Data Jobs Dashboard Page 2](../Resources/images/Project1_Dashboard_Page2.gif)  
-
-This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
-
+* **Самые востребованные роли:** **Data Engineer** (129 тыс. вакансий) и **Data Analyst** (113 тыс. вакансий) являются самыми многочисленными на рынке.
+* **Высокий спрос при низком предложении:** Хотя **Machine Learning Engineer** и **Cloud Engineer** имеют меньшее общее количество вакансий (15 тыс. и 7 тыс. соответственно), их зарплата высока, что может указывать на меньшее количество квалифицированных специалистов в этих узких, специализированных областях.
 ---
 
 ## Conclusion
