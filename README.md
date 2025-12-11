@@ -8,6 +8,7 @@
 
 ### Файл Дашборда
 Вы можете найти файл для дашборда здесь: [`Data_Jobs_Dashboard_2.0.pbix`](Data_Jobs_Dashboard_2.0.pbix).
+
 Вы можете найти файл для дашборда здесь: [`Data_Jobs_Dashboard_2.0.pbix`](Data_Jobs_Dashboard.pbix).
 
 ## Продемонстрированные Навыки
