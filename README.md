@@ -2,13 +2,7 @@
 
 ## Introduction
 
-Navigating the data job market can feel like a maze with information scattered everywhere. This dashboard (V2.0) is designed specifically for **Job Seekers, Job Transitioners, and Job Swappers** to cut through the clutter! Using a real-world dataset of 2024 data science job postings—rich with details on titles, salaries, and locations—this project offers a streamlined, **single-page interface** to quickly explore crucial market trends and compensation insights.
-
-**[КЛИКАБЕЛЬНЫЙ ОБЗОР ВАШЕГО ДАШБОРДА]**
-
-<a href="Screenshot 2025-12-12 003512.png" target="_blank">
-  <img src="Screenshot 2025-12-12 003512.png" alt="Обзор Дашборда Вакансий в Сфере Данных V2.0">
-</a>
+Navigating the data job market can feel like a maze with information scattered everywhere. This dashboard (V2.0) is designed specifically for **Job Seekers, Job Transitioners, and Job Swappers** to cut through the clutter! Using a real-world dataset of 2024 data science job postings—rich with details on titles, salaries, and locations—this project offers a powerful, **двухстраничный** интерфейс для изучения рыночных тенденций и компенсаций.
 
 > 📁 **Скачать файл дашборда Power BI Desktop (.pbix) можно здесь:** [`Data_Jobs_Dashboard_2.0.pbix`](Data_Jobs_Dashboard_2.0.pbix)
 
@@ -29,7 +23,25 @@ This project put key Power BI features into practice. Here's what we mastered:
     * **📈 Core Charts, 🗺️ Map Charts, 🔢 Cards, 📋 Tables** for effective data storytelling.
 * **🖱️ Interactive Features:**
     * **🎚️ Slicers** for dynamic filtering.
-    * **🔘 Buttons & Bookmarks** for streamlined navigation and managing report views.
+    * **🔘 Buttons & Bookmarks** for streamlined navigation and managing report views (включая Drill-Through).
+
+---
+
+## 📄 Обзор Отчета (Version 2.0 - Две Страницы)
+
+Этот отчет разделен на две страницы, чтобы предоставить пользователю как высокоуровневый обзор, так и возможность глубокой детализации.
+
+### Страница 1: Обзор Рынка (Market Overview)
+
+Эта страница служит вашим командным центром, представляя ключевые метрики (KPI) и общие тенденции.
+
+![Скриншот Страницы 1 Дашборда](Screenshot 2025-12-12 003512.png)
+
+### Страница 2: Детализация и Сравнение (Drill-Through / Detail)
+
+Эта страница предназначена для глубокого анализа, позволяя сравнить зарплаты по разным должностям, оценить популярность навыков и увидеть детальное распределение вакансий.
+
+![Скриншот Страницы 2 Дашборда](Screenshot 2025-12-11 235445.png)
 
 ---
 
