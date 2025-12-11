@@ -46,8 +46,8 @@ Navigating the data job market can feel like a maze with information scattered e
 
 **[КЛИКАБЕЛЬНЫЙ ОБЗОР ВАШЕГО ДАШБОРДА]**
 
-<a href="Screenshot 2025-12-11 235445.png" target="_blank">
-  <img src="Screenshot 2025-12-11 235445.png" alt="Обзор Дашборда Вакансий в Сфере Данных V2.0">
+<a href="Screenshot 2025-12-12 003512.png" target="_blank">
+  <img src="Screenshot 2025-12-12 003512.png" alt="Обзор Дашборда Вакансий в Сфере Данных V2.0">
 </a>
 
 > 📁 **Скачать файл дашборда Power BI Desktop (.pbix) можно здесь:** [`Data_Jobs_Dashboard_2.0.pbix`](Data_Jobs_Dashboard_2.0.pbix)
@@ -80,15 +80,13 @@ This project put key Power BI features into practice. Here's what we mastered:
 
 This second iteration consolidates the dashboard into a **single, focused page**, designed to give job seekers the most critical market insights at their fingertips.
 
-![Обзор Дашборда Вакансий V2.0](Screenshot 2025-12-11 235445.png) 
+![Обзор Дашборда Вакансий V2.0](Screenshot 2025-12-12 003512.png) 
 
 This page acts as your concise mission control for the data job market. It showcases key performance indicators (KPIs) like **Job Count, Skills Per Job, Median Yearly Salary, and Median Hourly Salary**. You can also quickly see **Skill Popularity** (by job percent or count) and compare **Salaries across different Job Titles**, all designed for an efficient overview.
 
 ---
 
-## 💡 Заключение: Ценность Дашборда (Version 2.0)
-
-This updated dashboard (Version 2.0) showcases Power BI's ability to transform extensive job posting data into a powerful, streamlined tool for career analysis. It empowers **Job Seekers, Job Transitioners, and Job Swappers** by allowing them to filter and explore essential market insights efficiently on a single page, helping them make informed decisions about their next career move.
+## 💡 Заключение
 
 
 
