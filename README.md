@@ -2,7 +2,9 @@
 
 <a href="Screenshot 2025-12-11 235445.png" target="_blank"> <img src="Screenshot 2025-12-11 235445.png" alt="Общий вид Дашборда Вакансий в Сфере Данных"> </a>
 
-📁 Скачать файл дашборда Power BI Desktop (.pbix) можно здесь: Data_Jobs_Dashboard.pbix
+...
+> 📁 **Скачать файл дашборда Power BI Desktop (.pbix) можно здесь:** [`Data_Jobs_Dashboard.pbix`](Data_Jobs_Dashboard.pbix)
+...
 
 
 ## Introduction
