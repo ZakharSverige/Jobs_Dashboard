@@ -1,4 +1,4 @@
-# Data Jobs Dashboard w/ Power BI
+# Data Jobs Dashboard / Power BI
 
 <a href="Screenshot 2025-12-11 235445.png" target="_blank"> <img src="Screenshot 2025-12-11 235445.png" alt="Общий вид Дашборда Вакансий в Сфере Данных"> </a>
 
@@ -28,8 +28,5 @@ ___
 
 * **Самые востребованные роли:** **Data Engineer** (129 тыс. вакансий) и **Data Analyst** (113 тыс. вакансий) являются самыми многочисленными на рынке.
 * **Высокий спрос при низком предложении:** Хотя **Machine Learning Engineer** и **Cloud Engineer** имеют меньшее общее количество вакансий (15 тыс. и 7 тыс. соответственно), их зарплата высока, что может указывать на меньшее количество квалифицированных специалистов в этих узких, специализированных областях.
----
 
-## Conclusion
 
-This dashboard showcases how Power BI can transform raw job posting data into a powerful tool for career analysis. It allows users to slice, filter, and drill through data to make informed decisions about their career paths.
